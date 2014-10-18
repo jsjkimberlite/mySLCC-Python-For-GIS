@@ -1,4 +1,4 @@
-# This show the number of streams and spring  at a user specified distance 
+# This program will show the number of streams and spring  at a user specified distance 
 # from on oil and/or gas well Within any user specified county in the state of 
 # Utah. 
 # Data was obtained from the Utah's Automated Geographic Reference Center (AGRC) 
